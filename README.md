@@ -12,12 +12,13 @@
 - Optimized and performant web applications
 
 🔍 Currently diving deeper into:
+- I'm learning Python
 - Advanced JavaScript frameworks
 - Frontend performance optimization techniques
 
 📫 Feel free to reach out to me at vanialla63@email.com or connect with me on [www.linkedin.com/in/vanialla]
 
-🌟 Fun fact: When I'm not coding, you can find me in drawing pencil Sketchs or experimenting with new recipes in the kitchen.
+🌟 Fun fact: When I'm not coding, I can draw pencil sketches or experiment with new recipes in the kitchen.
 
 <!---
 Vanialla63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
