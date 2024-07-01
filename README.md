@@ -2,7 +2,7 @@
 
 💻 I specialize in:
 - HTML/CSS
-- JavaScript (React, Vue.js)
+- JavaScript (React)
 - Responsive Web Design
 - UI/UX Design
 
